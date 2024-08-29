@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845766647263",
+    "project_id": "jobizz-a8537",
+    "storage_bucket": "jobizz-a8537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845766647263:android:036b357e6fe88819c5386a",
+        "android_client_info": {
+          "package_name": "com.company.jobizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtn9YehnR1IB0GsMRvzgR5bYD0VA6Dtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
